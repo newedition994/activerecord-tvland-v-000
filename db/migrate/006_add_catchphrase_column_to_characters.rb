@@ -1,3 +1,3 @@
-class ClassName
+class AddCatchphraseColumnToCharacters < ActiveRecord:: Migration
 
 end
